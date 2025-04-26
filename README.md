@@ -1,6 +1,6 @@
 # Lásaro Almeida
 
-<h4>Aluno de Ciência da Computação</h4>
+<h4>Bacharel em Ciência da Computação</h4>
 <h5>Engenheiro de Dados</h5>
 <div>
   <a href="https://github.com/LasaroAlmeida">
